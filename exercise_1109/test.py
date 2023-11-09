@@ -25,7 +25,6 @@ def exercise6(nbr):
 
 def display_student(name, age):
     print(name,age)
-display_student("emma",26)
 
 human("Jason",20)
 funcl(20,40,60)
